@@ -9,4 +9,7 @@ This is a simple demonstration of JavaScript event listeners. It also demonstrat
 Start the website by clicking [here](https://nenalukic.github.io/drum-kit-play/). 
 Then click on a picture of a drum or press the key on the keyboard to play a sound.
 
+## Acknowledgment
+
+I created this project while studying [Udemy online bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/).
 
